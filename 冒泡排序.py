@@ -9,4 +9,3 @@ for j in range(len(x)-1):
             x[i+1]=x[i]
             x[i]=t
 print("排序后",x)
-# 简单的冒泡排序
